@@ -1,5 +1,1 @@
-- Hi, I’m @LK672
-- In a nutshell:
-- Working on projects
-- Looking to collaborate
-- (Feel Free to reach out!)
+- functions are values
